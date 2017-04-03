@@ -1,4 +1,5 @@
 # 25 Churchill Place
+![img](preview.jpg "Desctop")
 
 Project URL: http://project.25churchillplace.codevery.com/
 
@@ -10,8 +11,11 @@ I had to turn one page website into a new WordPress theme and build out a blog s
    * WordPress
    * PHP
    
-## Preview:
+## Compatibility:
+* **Browsers** : Safari, Chrome, Opera, Mozilla, Edge, IE9.
+* **Devices** : Desctop, Tablet, Mobile.
 
-![img](desctop.jpg "Desctop")
+### Compatibility example:
+![alt tag](devices.gif)
 
-![img](mobile.jpg "Mobile")
+
